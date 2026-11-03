@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Event Delegation Demo</title>
+  <style>
+    body { font: 16px system-ui; max-width: 640px; margin: 3rem auto; padding: 0 1rem; }
+    li { padding: .5rem; cursor: pointer; }
+    li:hover { background: #eef2ff; }
+  </style>
+</head>
+<body>
+  <h1>Event Delegation</h1>
+  <p>Click any list item. One listener on the parent handles all items.</p>
+  <ul id="items">
+    <li>Java</li><li>JavaScript</li><li>TypeScript</li>
+  </ul>
+  <button id="add-item">Add item</button>
+  <script type="module" src="./01-event-delegation.js"></script>
+</body>
+</html>

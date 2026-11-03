@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Infinite Scroll Demo</title>
+  <style>
+    body { font: 16px system-ui; max-width: 640px; margin: 2rem auto; padding: 0 1rem; }
+    article { padding: 1rem; margin: .75rem 0; background: #f1f5f9; border-radius: .5rem; }
+    #sentinel { padding: 1rem; text-align: center; color: #475569; }
+  </style>
+</head>
+<body>
+  <h1>Infinite Scroll</h1>
+  <p>Scroll down to load more demo records.</p>
+  <main id="feed"></main>
+  <div id="sentinel" aria-live="polite">Loading more items…</div>
+  <script type="module" src="./03-infinite-scroll.js"></script>
+</body>
+</html>

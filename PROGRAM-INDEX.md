@@ -1,0 +1,42 @@
+# Program Index
+
+Each program is intentionally small and focused. Run Node.js examples from the repository root unless marked as a browser example.
+
+- `01-array-string-programs/01-array-manipulation.js`
+- `01-array-string-programs/02-remove-duplicates.js`
+- `01-array-string-programs/03-find-missing-number.js`
+- `01-array-string-programs/04-second-largest-number.js`
+- `01-array-string-programs/05-flatten-nested-array.js`
+- `01-array-string-programs/06-group-objects-by-property.js`
+- `01-array-string-programs/07-character-frequency-counter.js`
+- `01-array-string-programs/08-anagram-checker.js`
+- `01-array-string-programs/09-palindrome-checker.js`
+- `02-objects-functional-programming/01-deep-clone-object.js`
+- `03-advanced-javascript/01-closures.js`
+- `03-advanced-javascript/02-currying.js`
+- `03-advanced-javascript/03-memoization.js`
+- `03-advanced-javascript/04-debounce.js`
+- `03-advanced-javascript/05-throttle.js`
+- `03-advanced-javascript/06-custom-map.js`
+- `03-advanced-javascript/07-custom-filter.js`
+- `03-advanced-javascript/08-custom-reduce.js`
+- `04-asynchronous-javascript/01-promise-implementation.js`
+- `04-asynchronous-javascript/02-promise-all-implementation.js`
+- `04-asynchronous-javascript/03-retry-mechanism.js`
+- `04-asynchronous-javascript/04-sequential-vs-parallel-api-calls.js`
+- `04-asynchronous-javascript/05-event-loop-demonstration.js`
+- `05-dom-browser-apis/01-event-delegation.html`
+- `05-dom-browser-apis/01-event-delegation.js`
+- `05-dom-browser-apis/02-localstorage-crud.html`
+- `05-dom-browser-apis/02-localstorage-crud.js`
+- `05-dom-browser-apis/03-infinite-scroll.html`
+- `05-dom-browser-apis/03-infinite-scroll.js`
+- `06-data-structures-algorithms/01-stack-implementation.js`
+- `06-data-structures-algorithms/02-queue-implementation.js`
+- `06-data-structures-algorithms/03-linked-list.js`
+- `06-data-structures-algorithms/04-binary-search.js`
+- `06-data-structures-algorithms/05-merge-sort.js`
+- `06-data-structures-algorithms/06-lru-cache.js`
+- `07-design-patterns/01-observer-pattern.js`
+- `07-design-patterns/02-factory-pattern.js`
+- `07-design-patterns/03-strategy-pattern.js`
